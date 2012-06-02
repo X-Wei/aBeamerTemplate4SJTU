@@ -8,7 +8,7 @@
  
 **注意**
 
-1. 使用xelatex编译生成, latex估计不行;
+1. 使用xelatex编译生成, latex估计不行, xelatex的配置参考[这里](http://x-wei.github.com/xelatex_zh.html);
 
 2. 编辑内容直接修改beame_body.tex即可, 改变设置一般在beamer_header.tex里
 
