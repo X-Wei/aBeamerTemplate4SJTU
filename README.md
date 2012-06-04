@@ -14,4 +14,4 @@
 
 3. 我用的是文泉驿的字体, 可以修改beamer_header.tex改变字体设置, 查看已安装的中文字体的命令为: `fc-list :lang=zh-cn`
 
-4. 个人一点感觉: 用tex写ppt有时也会因为少些括号或者什么地方没注意老师编译不过, 所以用tex写也不一定能比用powerpoint方便, 不论啥工具, 只要能**get things done**,就是好工具~
+4. 个人一点感觉: 用tex写ppt有时也会因为少些括号或者什么地方没注意老编译不过, 所以用tex写也不一定能比用powerpoint方便, 不论啥工具, 只要能**get things done**,就是好工具~
